@@ -1,8 +1,7 @@
 import numpy as np
 
-
 def greeting(name):
-    return f"Hello, {name}"
+	return f'Hello, {name}'
 
 def my_stdev(x):
   mu = x.mean()
